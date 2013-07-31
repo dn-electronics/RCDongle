@@ -1,8 +1,8 @@
-RC5Dongle
+RCDongle
 =========
 Introduction
 ============
-The RC5Dongle is a plug in USB device that decodes RC5 signals.
+The RCDongle is a plug in USB device that decodes remote control signals.
 
 ![rc5donglebrd](https://f.cloud.github.com/assets/5130298/889189/b3e92bc0-fa1a-11e2-9ac4-b6c3bb4fe6a3.PNG)
 
