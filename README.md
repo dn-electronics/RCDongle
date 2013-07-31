@@ -10,7 +10,7 @@ The RC5Dongle is a plug in USB device that decodes RC5 signals.
 Features
 ========
 1. Reprogrammable AT90USB162 microcontroller
-2. 36kHz IR receiver rodule for remote control systems
+2. 36kHz IR receiver module for remote control systems
 3. USB type A chassis plug
 4. Transparent USB enclosure
 
