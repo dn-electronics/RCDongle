@@ -11,8 +11,6 @@ Features
 1. Reprogrammable AT90USB162 microcontroller
 2. ESD protection diode
 3. 36kHz IR receiver module for remote control systems
-4. USB type A chassis plug
-5. Transparent USB enclosure
 
 Licence
 =======
