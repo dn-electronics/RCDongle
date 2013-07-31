@@ -18,3 +18,7 @@ Features
 Licence
 =======
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+Schematic
+=========
+![rcdonglesch](https://f.cloud.github.com/assets/5130298/889992/b11cdf44-fa2a-11e2-81b1-e0f3b9c9f151.png)
