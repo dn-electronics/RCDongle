@@ -21,4 +21,4 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unport
 
 Schematic
 =========
-
+![rcdonglesch](https://f.cloud.github.com/assets/5130298/890019/2422d372-fa2b-11e2-840f-1f7ec6c39908.png)
