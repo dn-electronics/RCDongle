@@ -2,4 +2,4 @@ RC5Dongle
 =========
 Introduction
 ============
-The RC5Dongle is a USB device to control computer programs using an RC5 remote control.
+The RC5Dongle is a plug in USB device that decodes RC5 signals.
