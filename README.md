@@ -2,7 +2,7 @@ RCDongle
 =========
 Introduction
 ============
-The RCDongle is a plug in USB device that decodes infrared signals. The RCDongle can be fitted with an IR receiver module with a 30, 33, 36, 38, 40 or 56 kHz centre frequency depending on the application.
+The RCDongle is a plug in USB device that decodes infrared signals. The RCDongle can be fitted with an IR receiver module with either a 30, 33, 36, 38, 40 or 56 kHz centre frequency depending on the application.
 
 ![rcdonglebrd](https://f.cloud.github.com/assets/5130298/890038/74571218-fa2b-11e2-97b7-1ce028e694cc.PNG)
 
