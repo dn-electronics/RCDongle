@@ -2,7 +2,7 @@ RCDongle
 =========
 Introduction
 ============
-The RCDongle is a plug in USB device that decodes infrared signals.
+The RCDongle is a plug in USB device that decodes infrared signals and sends the data over USB to a PC.
 
 ![rcdonglebrd](https://f.cloud.github.com/assets/5130298/890038/74571218-fa2b-11e2-97b7-1ce028e694cc.PNG)
 
