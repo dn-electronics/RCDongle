@@ -18,4 +18,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unpor
 
 Schematic
 =========
-![rcdonglesch](https://f.cloud.github.com/assets/5130298/890019/2422d372-fa2b-11e2-840f-1f7ec6c39908.png)
+![rcdongle](https://f.cloud.github.com/assets/5130298/1057626/2197c3c4-1178-11e3-8215-561226983290.png)
